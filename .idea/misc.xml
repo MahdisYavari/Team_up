@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/drawable/border_first_2.xml" value="0.1935" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/drawable/border_first_3.xml" value="0.1935" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/drawable/border_first_4.xml" value="0.1935" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/drawable/border_forth_4.xml" value="0.1935" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/drawable/border_frist_1.xml" value="0.1935" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/drawable/default_pager_dot.xml" value="0.1935" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/drawable/selected_pager_dot.xml" value="0.1935" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/drawable/tab_pager_selector.xml" value="0.1935" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/font/font.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/activity_base.xml" value="0.2421875" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/activity_main.xml" value="0.228125" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/fragment_base.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/fragment_first_screen.xml" value="0.228125" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/fragment_forth_screen.xml" value="0.228125" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/fragment_intro_viewpager.xml" value="0.2421875" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/fragment_launcher.xml" value="0.2421875" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/fragment_second_screen.xml" value="0.2421875" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/fragment_third_screen.xml" value="0.2421875" />
+        <entry key="..\:/Users/Mahdis/Teamup/app/src/main/res/layout/selected_pager_dot.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
